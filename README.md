@@ -1,4 +1,4 @@
-📊 Customer Churn Analysis using SQL (PostgreSQL)
+📊 Customer Churn Analysis using SQL (PostgreSQL, MySQL)
 
 📌 Project Overview
 This project focuses on analyzing telecom customer churn data using SQL to identify patterns, high-risk customers, and key factors influencing churn.
@@ -14,7 +14,7 @@ The analysis is performed using PostgreSQL with 25+ business-driven SQL queries 
 
 🛠️ Tools & Technologies
 - SQL
-- PostgreSQL (RDBMS)
+- PostgreSQL and MySQL (RDBMS)
 
 📂 Dataset
 - Telecom Customer Churn Dataset
